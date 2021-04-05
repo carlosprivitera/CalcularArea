@@ -3,6 +3,7 @@ package app;
         private Float resultado = null;
         private Float base = null;
         private Float altura = null;
+        //
                 
         public Area() {
             //super();
